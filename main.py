@@ -7,6 +7,8 @@
 # Insert
 
 # import math
+# math.log (x, base)  se a base ficar vazia, ele usa a base natural (e = 2.718281828459045) -> ln
+
 # import time
 # time.sleep(n)  n = seg
 
@@ -15,7 +17,7 @@
 # continue - interrompe apenas a iteração atual do while
 
 #for !!
-#  iteratior ou generator
+#  iterator ou generator
 
 # print() pula uma linha
 
